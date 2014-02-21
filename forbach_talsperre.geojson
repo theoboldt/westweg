@@ -4,7 +4,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.330409, 48.654403]
+        "coordinates": [48.654403, 8.330409]
       },
       "properties": {
         "name": "Forbach Talsperre"
@@ -13,19 +13,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.353368, 48.668501]
+        "coordinates": [48.668501, 8.353368]
       },
       "properties": {
         "name": "Forbach Kraftwerk"
-      }
-    }, {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [8.353368, 48.668501]
-      },
-      "properties": {
-        "name": "Forbach Kraftwerk Klon"
       }
     }, {
       "type": "Feature",
