@@ -4,7 +4,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [48.654403,8.330409]
+        "coordinates": [48.654403, 8.330409]
       },
       "properties": {
         "name": "Forbach Talsperre"
@@ -13,7 +13,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [48.66903,8.35286]
+        "coordinates": [48.66903, 8.35286]
       },
       "properties": {
         "name": "Forbach Kraftwerk"
@@ -22,7 +22,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [32.78083,-96.79979]
+        "coordinates": [32.78083, -96.79979]
       },
       "properties": {
         "name": "Texas City"
@@ -31,7 +31,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [48.668501,8.353368]
+        "coordinates": [48.668501, 8.353368]
       },
       "properties": {
         "name": "Something other"
