@@ -7,8 +7,9 @@
         "coordinates": [8.330409,48.654403]
       },
       "properties": {
+        "name": "Forbach Talsperre",
         "marker-size": "small",
-        "name": "Forbach Talsperre"
+        "marker-color": "#f0f0f0"
       }
     }, {
       "type": "Feature",
@@ -17,7 +18,8 @@
         "coordinates": [8.35286,48.66903]
       },
       "properties": {
-        "name": "Forbach Kraftwerk"
+        "name": "Forbach Kraftwerk",
+        "marker-size": "small"
       }
     }]
 }
