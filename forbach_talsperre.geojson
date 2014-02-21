@@ -37,7 +37,23 @@
         "marker-size": "small"
       }
 
+  }, {  
 
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            [9.106554,48.726600], [9.107158,48.726565], [9.107133,48.726191], [9.106510,48.726236]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Jugendwerkweg",
+        "marker-color": "#f0aaf0"
+      }
+      
+      
     }]
 }
     
