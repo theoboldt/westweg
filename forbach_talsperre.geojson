@@ -22,6 +22,15 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [52.520325, 13.380344]
+      },
+      "properties": {
+        "name": "Stuttgart"
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [32.78083, -96.79979]
       },
       "properties": {
