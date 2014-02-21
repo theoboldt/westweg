@@ -21,8 +21,23 @@
         "name": "Forbach Kraftwerk",
         "marker-size": "small"
       }
+    }, {  
+
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [9.106554,48.726600], [9.107158,48.726565], [9.107133,48.726191], [9.106510,48.726236]
+          ]
+        ]
+      },
+
+
     }]
 }
+    
+    
     
     
     
