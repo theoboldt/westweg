@@ -22,6 +22,15 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [8.353368, 48.668501]
+      },
+      "properties": {
+        "name": "Forbach Kraftwerk Klon"
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-81.299554906610865, 32.354080966941915]
       },
       "properties": {
