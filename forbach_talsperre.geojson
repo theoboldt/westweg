@@ -18,15 +18,7 @@
       "properties": {
         "name": "Forbach Kraftwerk"
       }
-    }, {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [9.233626644885119,48.84941688864243]
-      },
-      "properties": {
-        "name": "Stuttgart"
-      }
+    
     }]
 }
     
