@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [48.654403, 8.330409]
+      },
+      "properties": {
+        "name": "Forbach Talsperre"
+      }
+    }]
+}
+    
+    
