@@ -18,8 +18,18 @@
       "properties": {
         "name": "Forbach Kraftwerk"
       }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.299554906610865, 32.354080966941915]
+      },
+      "properties": {
+        "name": "Something other"
+      }
     }]
 }
     
     
+
 
