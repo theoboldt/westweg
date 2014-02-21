@@ -9,7 +9,17 @@
       "properties": {
         "name": "Forbach Talsperre"
       }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [48.668501, 8.353368]
+      },
+      "properties": {
+        "name": "Forbach Kraftwerk"
+      }
     }]
 }
     
     
+
