@@ -4,7 +4,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [48.654403, 8.330409]
+        "coordinates": [8.330409,48.654403]
       },
       "properties": {
         "name": "Forbach Talsperre"
@@ -13,7 +13,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [48.66903, 8.35286]
+        "coordinates": [8.35286,48.66903]
       },
       "properties": {
         "name": "Forbach Kraftwerk"
@@ -22,19 +22,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.520325, 13.380344]
-      },
-      "properties": {
-        "name": "Stuttgart"
-      }
-    }, {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [9.233626644885119,48.84941688864243]
       },
       "properties": {
-        "name": "Something other"
+        "name": "Stuttgart"
       }
     }]
 }
