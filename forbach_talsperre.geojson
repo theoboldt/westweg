@@ -4,7 +4,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.299554906610865, 32.354080966941915]
+        "coordinates": [48.654403, 8.330409]
       },
       "properties": {
         "name": "Forbach Talsperre"
@@ -22,7 +22,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.299554906610865, 32.354080966941915]
+        "coordinates": [48.668501, 8.353368]
       },
       "properties": {
         "name": "Something other"
