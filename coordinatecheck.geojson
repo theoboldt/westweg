@@ -9,8 +9,7 @@
     "features": [{
         "type": "Feature",
         "properties": {
-            "Name": "Fahrradtour",
-            "Description": ""
+            "Name": "Tag 1"
         },
         "geometry": {
             "type": "LineString",
