@@ -274,7 +274,6 @@
             ]
         }
     }, {
-    "features": [{
       "type": "Feature",
       "properties": {
         "name": "Tag 2",
