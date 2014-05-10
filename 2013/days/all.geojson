@@ -598,7 +598,7 @@
       "type": "Feature",
       "properties": {
         "name": "Europapark",
-        "marker-size": "large",
+        "marker-size": "small",
         "marker-color": "#a40000",
         "marker-symbol": "playground"
       },
