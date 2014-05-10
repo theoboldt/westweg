@@ -9,8 +9,8 @@
     "features": [{
         "type": "Feature",
         "properties": {
-            "Name": "Tag 1",
-            "stroke-width": 5
+            "Strecke": "Tag 1",
+            "stroke-width": 4
         },
         "geometry": {
             "type": "LineString",
