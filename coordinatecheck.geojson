@@ -10,10 +10,11 @@
         "type": "Feature",
         "properties": {
             "Name": "Tag 1",
-            "stroke-width": 2
+            "stroke-width": 10
         },
         "geometry": {
             "type": "LineString",
+            "stroke-width": 10,
             "coordinates": [
                 	[8.733424, 48.736217],
                 	[8.733188, 48.735857],
