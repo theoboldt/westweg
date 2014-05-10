@@ -10,7 +10,6 @@
       "type": "Feature",
       "properties": {
         "name": "Tag 1",
-        "marker-color": "#729fcf",
         "marker-size": "medium",
         "marker-symbol": "1"
       },
