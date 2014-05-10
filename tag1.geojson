@@ -7,19 +7,32 @@
         }
     },
     "features": [{
-            "type": "Feature",
-            "properties": {
-                "name": "HIRSAU - BAD WILDBAD",
-                "time": "2013-05-31T11:33:23+00:00"
-            },
-        	"geometry": {
-            	"type": "LineString",
-            	"coordinates": [
-                	[8.733424, 48.736217],
-                	[8.733188, 48.735857],
-                	[8.73254, 48.736282],
-                	[8.731175, 48.737246],
-                	[8.730219, 48.738075],
+      "type": "Feature",
+      "properties": {
+        "name": "Tag 1",
+        "marker-size": "medium",
+        "marker-color": "#f57900",
+        "marker-symbol": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.542125, 48.736435]
+      }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "Strecke": "Tag 1",
+            "stroke-color": "#f57900",
+            "stroke-width": 4
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [8.733424, 48.736217],
+                [8.733188, 48.735857],
+                [8.73254, 48.736282],
+                [8.731175, 48.737246],
+                [8.730219, 48.738075],
                 [8.729707, 48.738389],
                 [8.729096, 48.738297],
                 [8.727906, 48.738385],
