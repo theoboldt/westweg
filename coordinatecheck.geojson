@@ -9,7 +9,8 @@
     "features": [{
         "type": "Feature",
         "properties": {
-            "Name": "Tag 1"
+            "Name": "Tag 1",
+            "stroke-width": 2
         },
         "geometry": {
             "type": "LineString",
