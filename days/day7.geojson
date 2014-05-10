@@ -23,7 +23,7 @@
       "properties": {
         "name": "Europapark",
         "marker-size": "medium",
-        "marker-color": "#4e9a06",
+        "marker-color": "#a40000",
         "marker-symbol": "playground"
       },
       "geometry": {
