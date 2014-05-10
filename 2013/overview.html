@@ -4,53 +4,120 @@
     <title>Westweg 2013</title>
 <style type="text/css">
 
+    body {
+        margin: 0;
+    }
+
+    h1 {
+        padding: 40px 0 15px 0;
+        color: white;
+    }
+
+    header div:first-child, footer {
+        text-shadow: 0 -1px 1px #204A87, 0 1px 1px #ADD5FF;
+        background: #3465A4;
+    }
+
+    header div:nth-child(2) {
+        padding: 15px 0 15px 0;
+        text-shadow: 0 -1px 1px #0F356C, 0 1px 1px #95BCF5;
+        background-color: #AFD1F5;
+        color: #204A87;
+    }
+
+    #page {
+        display: block;
+        margin: auto;
+    }
+
+    .days {
+        display: block;
+    }
+
+    .day, h1, h2, footer p {
+        margin: auto;
+        width: 800px;
+    }
+
+    .day h3 {
+        margin: 40px auto 0 auto;
+        padding: 8px;
+        border: 1px solid #ddd;
+        border-radius: 3px;
+        background-color: #e8e8e8;
+        background-image: -moz-linear-gradient(#fafafa, #e8e8e8);
+        background-image: -webkit-linear-gradient(#fafafa, #e8e8e8);
+        background-image: linear-gradient(#fafafa, #e8e8e8);
+    }
+
+    footer {
+        margin-top: 40px;
+    }
+
+    footer p {
+        padding: 20px 0 40px 0;
+        text-align: center;
+        color: white;
+    }
 </style>
 </head>
 
 <body>
-<h1>Westweg 2013</h1>
+<div id="page">
+    <header>
+        <div>
+            <h1>Westweg 2013</h1>
+        </div>
+        <div>
+            <h2>Routen</h2>
+        </div>
+    </header>
 
-<h2>Routen</h2>
+    <div class="days">
+        <div class="day">
+        <h3>Tag 1</h3>
+        <script src="https://embed.github.com/view/geojson/theoboldt/westweg/master/2013/days/day1.geojson?height=500&width=800"></script>
+        </div>
 
-<div class="day">
-<h3>Tag 1</h3>
-<script src="https://embed.github.com/view/geojson/theoboldt/westweg/master/2013/days/day1.geojson?height=500&width=800"></script>
+        <div class="day">
+        <h3>Tag 2</h3>
+        <script src="https://embed.github.com/view/geojson/theoboldt/westweg/master/2013/days/day2.geojson?height=500&width=800"></script>
+        </div>
+
+        <div class="day">
+        <h3>Tag 3</h3>
+        <script src="https://embed.github.com/view/geojson/theoboldt/westweg/master/2013/days/day3.geojson?height=500&width=800"></script>
+        </div>
+
+        <div class="day">
+        <h3>Tag 4</h3>
+        <script src="https://embed.github.com/view/geojson/theoboldt/westweg/master/2013/days/day4.geojson?height=500&width=800"></script>
+        </div>
+
+        <div class="day">
+        <h3>Tag 5</h3>
+        <script src="https://embed.github.com/view/geojson/theoboldt/westweg/master/2013/days/day5.geojson?height=500&width=800"></script>
+        </div>
+
+        <div class="day">
+        <h3>Tag 6</h3>
+        <script src="https://embed.github.com/view/geojson/theoboldt/westweg/master/2013/days/day6.geojson?height=500&width=800"></script>
+        </div>
+
+        <div class="day">
+        <h3>Tag 7</h3>
+        <script src="https://embed.github.com/view/geojson/theoboldt/westweg/master/2013/days/day7.geojson?height=500&width=800"></script>
+        </div>
+
+        <div class="day">
+        <h3>Gesamtübersicht</h3>
+        <script src="https://embed.github.com/view/geojson/theoboldt/westweg/master/2013/days/all.geojson?height=500&width=800"></script>
+        </div>
+    </div>
+
+    <footer>
+        <p>Erik Theoboldt</p>
+    </footer>
 </div>
-
-<div class="day">
-<h3>Tag 2</h3>
-<script src="https://embed.github.com/view/geojson/theoboldt/westweg/master/2013/days/day2.geojson?height=500&width=800"></script>
-</div>
-
-<div class="day">
-<h3>Tag 3</h3>
-<script src="https://embed.github.com/view/geojson/theoboldt/westweg/master/2013/days/day3.geojson?height=500&width=800"></script>
-</div>
-
-<div class="day">
-<h3>Tag 4</h3>
-<script src="https://embed.github.com/view/geojson/theoboldt/westweg/master/2013/days/day4.geojson?height=500&width=800"></script>
-</div>
-
-<div class="day">
-<h3>Tag 5</h3>
-<script src="https://embed.github.com/view/geojson/theoboldt/westweg/master/2013/days/day5.geojson?height=500&width=800"></script>
-</div>
-
-<div class="day">
-<h3>Tag 6</h3>
-<script src="https://embed.github.com/view/geojson/theoboldt/westweg/master/2013/days/day6.geojson?height=500&width=800"></script>
-</div>
-
-<div class="day">
-<h3>Tag 7</h3>
-<script src="https://embed.github.com/view/geojson/theoboldt/westweg/master/2013/days/day7.geojson?height=500&width=800"></script>
-</div>
-
-<div class="day">
-<h3>Gesamtübersicht</h3>
-<script src="https://embed.github.com/view/geojson/theoboldt/westweg/master/2013/days/all.geojson?height=500&width=800"></script>
-</div>
-
 </body>
 </html>
