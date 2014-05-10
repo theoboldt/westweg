@@ -19,6 +19,18 @@
         "coordinates": [7.736977,48.295506]
       }
     }, {
+      "type": "Feature",
+      "properties": {
+        "name": "Europapark",
+        "marker-size": "medium",
+        "marker-color": "#4e9a06",
+        "marker-symbol": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.720833,48.268333]
+      }
+    }, {
         "type": "Feature",
         "properties": {
             "Strecke": "Tag 7",
@@ -31,3 +43,6 @@
         }
     }]
 }
+
+
+
