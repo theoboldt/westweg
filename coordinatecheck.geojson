@@ -22,7 +22,6 @@
         "type": "Feature",
         "properties": {
             "Strecke": "Tag 1",
-            "stroke-color": "#729fcf",
             "stroke-width": 4
         },
         "geometry": {
