@@ -7,6 +7,17 @@
         }
     },
     "features": [{
+      "type": "Feature",
+      "properties": {
+        "name": "Tag 1",
+        "marker-size": "medium",
+        "marker-symbol": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.542125, 48.736435]
+      }
+    }, {
         "type": "Feature",
         "properties": {
             "Strecke": "Tag 1",
