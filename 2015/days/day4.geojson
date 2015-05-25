@@ -16,7 +16,11 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [8.298542,48.468022]
+        "coordinates": [
+                        8.151318,
+                        48.025468,
+                        837
+                    ]
       }
     }, {
         "type": "Feature",
